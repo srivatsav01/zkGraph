@@ -20,7 +20,9 @@
     "publish": "zkgraph publish"
   },
   "dependencies": {
-    "@hyperoracle/zkgraph-lib": "^1.0.0"
+    "@ethereum-attestation-service/eas-sdk": "^1.4.0",
+    "@hyperoracle/zkgraph-lib": "^1.0.0",
+    "ethers": "^6.10.0"
   },
   "devDependencies": {
     "@hyperoracle/zkgraph-cli": "1.0.0",
