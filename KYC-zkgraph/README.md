@@ -1,4 +1,4 @@
-##KYC Zkgraph
+## KYC Zkgraph
 I've previously built [KYC3wallet](https://devfolio.co/projects/kycwallet-d58a), which utilizes [reclaim protocol]([https://www.reclaimprotocol.org/)for user KYC verification. After the KYC process, a Soul Bound token is minted for the user. 
 
 I deployed the contract earlier on the Polygon Mumbai testnet since HyperOracle currently doesn't support Mumbai. Now, I've also deployed the same contract on Sepolia [here](https://sepolia.etherscan.io/tx/0xc4ca66e93dbce46e60a7e2bc85a2e8060a8e95f63bd86f79606542ed803d4054)
