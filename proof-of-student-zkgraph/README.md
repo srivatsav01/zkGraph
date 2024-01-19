@@ -1,3 +1,16 @@
+## proofOfStudent zkgraph
+
+I've previosly built [educlaim](https://ethglobal.com/showcase/educlaim-your-digital-academic-identity-a0ki5), which uses [reclaim protocol](https://www.reclaimprotocol.org/) to prove that you're a student onchain and attests using [EAS](https://easscan.org/).
+
+using this zkgraph one can verify whether a given address is of a student or not by checking with the EAS events.
+
+IMAGE MD5: 931D91F50635DBC6800FC07E682B8D8A
+
+TXN : [SEPOLIAS SCAN](https://sepolia.etherscan.io/tx/0x702294aee1eb205f202d916c632759eab1ecab898bac3296637d06b9a0d52a8c)
+
+Block: 4095126
+
+
 # zkGraph default template
 
 
